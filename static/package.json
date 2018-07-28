@@ -1,0 +1,12 @@
+{
+  "name": "cpc-mobile",
+  "version": "0.0.1",
+  "description": "CPC移动项目",
+  "author": "liandong.lld <liandong.lld@alibaba-inc.com>",
+  "scripts": {
+    "run": "node ./app.js"
+  },
+  "dependencies": {
+    "moc": "^0.1.5"
+  }
+}

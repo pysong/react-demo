@@ -1,0 +1,61 @@
+{
+    "status": 0,
+    "data": {
+        "queryCondition": {
+            "ascend": true,
+            "totalSize": 4,
+            "pageSize": 20,
+            "currentPage": 1,
+            "totalPage": 1,
+            "firstResult": 0,
+            "isQueryAll": false
+        },
+        "target": {
+            "tip": "",
+            "reportInfo": {
+                "userId": 1061,
+                "startDate": 1500566400000,
+                "endDate": 1500825600000,
+                "statInfos": [
+                    {
+                        "id": 0,
+                        "userId": 0,
+                        "userName": "平台测试",
+                        "planId": 100865762,
+                        "planName": "<div>aaa1111</div>",
+                        "unitId": 451399891,
+                        "unitName": "<div>111</div>",
+                        "keywordId": 11791181856,
+                        "keyword": "按时的英文",
+                        "ideaId": 0,
+                        "idea": "",
+                        "title": "",
+                        "desc": "",
+                        "showurl": "",
+                        "xijingId": 0,
+                        "xiJing": "",
+                        "appId": 0,
+                        "appName": "",
+                        "phoneId": 0,
+                        "phoneName": "",
+                        "timeStr": "2017-05-01",
+                        "query": "",
+                        "queryState": "Valid",
+                        "showNum": 7,
+                        "clickNum": 0,
+                        "convertNum": 0,
+                        "consume": 0,
+                        "clickRatio": "0.00%",
+                        "cpc": "0",
+                        "convertRatio": 0,
+                        "rank": "1.00"
+                    }
+                ],
+                "dataX": [],
+                "totalRecord": 4,
+                "tip": ""
+            }
+        }
+    },
+    "success": true
+}

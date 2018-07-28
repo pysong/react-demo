@@ -1,0 +1,12 @@
+{   "status": 0,
+    "data": [{
+        "name": "outerID",
+        "meaning": "商品id",
+        "content": "a0a9c45e2188df3126b9c2be5a9ea975"
+    },{
+        "name": "name",
+        "meaning": "商品名称",
+        "content": "XINGX/星星BD/BC-305EH大冰柜家用卧式冷藏冷冻商用展示柜冷柜"
+    }],
+    "success": true
+}

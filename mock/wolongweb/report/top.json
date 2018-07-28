@@ -1,0 +1,63 @@
+{
+    "status": 0,
+    "data": {
+        "list": [
+            {
+                "no": 1,
+                "timeStr": "2016-01-01",
+                "userid": 1061,
+                "planid": 1,
+                "unitid": 1,
+                "winfoid": 1,
+                "userName": "携程旅行网",
+                "planName": "机票_地域机票(新)_phrase",
+                "unitName": "?阿克苏机票_phrase",
+                "keyword": "阿克苏航班",
+ 
+                "clickNum": "168318",
+                "showNum": "1917900",
+                "consume": "183256.84",
+                "acp": "1.09",
+                "clickRatio": "1.09",
+ 
+                "clickPercent": "19%",
+                "showPercent": "20.85%",
+                "consumePercent": "20.98%"
+            },
+            {
+                "no": 2,
+                "timeStr": "2016-01-02",
+                "userid": 1061,
+                "planid": 2,
+                "unitid": 2,
+                "winfoid": 2,
+                "userName": "携程旅行网",
+                "planName": "机票_地域机票(新)_phrase",
+                "unitName": "?阿克苏机票_phrase",
+                "keyword": "阿克苏航班",
+ 
+                "clickNum": "168328",
+                "showNum": "2917900",
+                "consume": "283256.84",
+                "acp": "2.09",
+                "clickRatio": "2.09",
+ 
+                "clickPercent": "29%",
+                "showPercent": "30.85%",
+                "consumePercent": "30.98%"
+            }
+        ],
+        "summary": {
+            "timeStr": "2016-01-01",
+            "clickNum": "1638318",
+            "showNum": "19173900",
+            "consume": "1832356.84",
+            "acp": "13.09",
+            "clickRatio": "13.09",
+ 
+            "clickPercent": 49.38,
+            "showPercent": 50.81,
+            "consumePercent": 40.92
+        }
+    }
+}

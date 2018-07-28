@@ -1,0 +1,9 @@
+{
+    "status": 0,
+    "data": {
+        "styleType": 1003,
+        "template": "[{\"key\":\"modify_title\",\"alias\":\"修改推广子链\",\"value\":[{\"key\":\"modify_label_link_1_1_subpath_group\",\"alias\":\"子链1\",\"type\":\"group\",\"value\":[{\"key\":\"1_subpath_text\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true},{\"key\":\"1_subpath_url\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true}]},{\"key\":\"modify_label_link_1_2_subpath_group\",\"alias\":\"子链2\",\"type\":\"group\",\"value\":[{\"key\":\"2_subpath_text\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true},{\"key\":\"2_subpath_url\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true}]},{\"key\":\"modify_label_link_1_3_subpath_group\",\"alias\":\"子链3\",\"type\":\"group\",\"value\":[{\"key\":\"3_subpath_text\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true},{\"key\":\"3_subpath_url\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true}]},{\"key\":\"modify_label_link_1_3_subpath_group\",\"alias\":\"子链4\",\"type\":\"group\",\"value\":[{\"key\":\"4_subpath_text\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true},{\"key\":\"4_subpath_url\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":true}]}]}]",
+        "canBatchCopy": false
+    },
+    "success": true
+}

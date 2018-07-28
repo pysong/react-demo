@@ -1,0 +1,36 @@
+{
+"status": 0,
+"data": [
+{
+"appId": 36557,
+"appName": "UC浏览器",
+"appLogoUrl": "http://android-artworks.25pp.com/fs08/2017/11/16/3/110_8f09c90ea29c56a0df0bb3a46097aea3_con.png",
+"apkId": 52783,
+"apkName": "uc-wolong-cpc",
+"apkDownloadUrl": "http://server.m.pp.cn/download/apk?appId=36557&ch_src=pm_hc&ch=default&md5=47d1e8bb08cd6124b9e972d0e020eb33&custom=0&uc_param_str=frvecpeimintnidnut",
+"apkDetailUrl": "http://m.pp.cn/detail.html?appid=36557&md5=47d1e8bb08cd6124b9e972d0e020eb33&ch_src=pm_hc&ch=default&cfg=%7B%22footer2%22%3A0%2C%22back%22%3A0%2C%22search%22%3A0%7D&uc_biz_str=S:custom|C:default|K:true&uc_fdl_toast=1",
+"packageVersion": "11.7.5.955"
+},
+{
+"appId": 36557,
+"appName": "UC浏览器",
+"appLogoUrl": "http://android-artworks.25pp.com/fs08/2017/11/16/3/110_8f09c90ea29c56a0df0bb3a46097aea3_con.png",
+"apkId": 32187,
+"apkName": "测试-pp助手-cpc",
+"apkDownloadUrl": "http://server.m.pp.cn/download/apk?appId=36557&ch_src=pm_hc&ch=default&md5=f80630bc6b9878debfb1923eec05e432&custom=0&uc_param_str=frvecpeimintnidnut",
+"apkDetailUrl": "http://m.pp.cn/detail.html?appid=36557&md5=f80630bc6b9878debfb1923eec05e432&ch_src=pm_hc&ch=default&cfg=%7B%22footer2%22%3A0%2C%22back%22%3A0%2C%22search%22%3A0%7D&uc_biz_str=S:custom|C:default|K:true&uc_fdl_toast=1",
+"packageVersion": "11.6.8.952"
+},
+{
+"appId": 36557,
+"appName": "UC浏览器",
+"appLogoUrl": "http://android-artworks.25pp.com/fs08/2017/11/16/3/110_8f09c90ea29c56a0df0bb3a46097aea3_con.png",
+"apkId": 24244,
+"apkName": "ucmobile0",
+"apkDownloadUrl": "http://server.m.pp.cn/download/apk?appId=36557&ch_src=pm_hc&ch=default&md5=8cdd6d128c115492d2e6002273aaea6c&custom=0&uc_param_str=frvecpeimintnidnut",
+"apkDetailUrl": "http://m.pp.cn/detail.html?appid=36557&md5=8cdd6d128c115492d2e6002273aaea6c&ch_src=pm_hc&ch=default&cfg=%7B%22footer2%22%3A0%2C%22back%22%3A0%2C%22search%22%3A0%7D&uc_biz_str=S:custom|C:default|K:true&uc_fdl_toast=1",
+"packageVersion": "11.6.2.948"
+}
+],
+"success": true
+}

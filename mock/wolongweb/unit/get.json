@@ -1,0 +1,30 @@
+{
+    "status": 0,
+    "data": {
+        "userId": 15092483,
+        "showNum": 0,
+        "clickNum": 0,
+        "convertNum": 0,
+        "consume": 0,
+        "clickRatio": "0.00%",
+        "cpc": "0.00",
+        "convertRatio": 0,
+        "planId": 101433090,
+        "planName": "(勿删勿改!!!)线上监控用",
+        "isPaused": 0,
+        "frontState": 2,
+        "wmatchFactor": "3.0:2.0:1.3",
+        "isPromotionAbnormal": true,
+        "unitId": 478075940,
+        "unitName": "线上监控用_更新流",
+        "bid": 0.47,
+        "negWord": "haha\nssob",
+        "negQuery": "negword",
+        "platform": "111",
+        "updateNegWord": 1,
+        "updateNegQuery": 1,
+        "id": 478075940,
+        "level": 3
+    },
+    "success": true
+}

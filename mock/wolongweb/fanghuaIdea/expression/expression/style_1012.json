@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "data": {
+        "extraIdeaMetaId": 1001,
+        "extraIdeaMetaName": "推广App",
+        "extraStyleTemplateIds": [],
+        "extraIdeaMetaProductId": 0,
+        "extraIdeaMetaTemplate": "{\"attribute\": {\"productId\": \"0\",\"name\": \"推广App\",\"alias\": \"appname_h1\"},\"references\": [{\"referVarType\": \"app\",\"index\": 1,\"expressions\": [{\"key\": \"appname_h1\",\"alias\": \"应用名称\",\"validation\": {\"minLen\": 1,\"maxLen\": 32,\"required\": true},\"tips\": \"长度1到32个字符\",\"inputType\": \"text\",\"varType\": \"h1\",\"secondaryVarType\": \"appname\",\"isShowKey\":true},{\"key\": \"pic_img\",\"alias\": \"图片\",\"validation\": {\"suffixes\": [\"jpg\",\"jpeg\",\"png\"],\"maxSize\": 100,\"width\": 120,\"height\": 120,\"required\": true},\"tips\": \"请上传120*120,大小不超过100kb图片,支持jpg和png\",\"inputType\": \"image\",\"varType\": \"image\",\"isShowKey\":false},{\"key\": \"androiddownload_url\",\"alias\": \"Android下载地址\",\"validation\": {\"minLen\": 0,\"maxLen\": 1024,\"required\": false,\"illegalChars\": \"\",\"type\": \"url\"},\"tips\": \"请填写app下载地址，http(s)开头\",\"inputType\": \"text\",\"varType\": \"url\",\"secondaryVarType\": \"androiddownload\",\"isShowKey\":false}, {\"key\": \"androiddetail_url\",\"alias\": \"Android详情页地址\",\"validation\": {\"minLen\": 0,\"maxLen\": 1024,\"required\": false,\"illegalChars\": \"\",\"type\": \"url\"},\"tips\": \"请填写app下载地址，http(s)开头\",\"inputType\": \"text\",\"varType\": \"url\",\"secondaryVarType\": \"androiddetail\",\"isShowKey\":false},{\"key\": \"iosdownload_url\",\"alias\": \"IOS下载地址\",\"validation\": {\"minLen\": 0,\"maxLen\": 1024,\"required\": false,\"illegalChars\": \"\",\"type\": \"url\"},\"tips\": \"请填写app下载地址，http(s)开头\",\"inputType\": \"text\",\"varType\": \"url\",\"secondaryVarType\": \"iosdownload\",\"isShowKey\":false}]}],\"rules\": {\"groupRelation\": [{\"relationKey\": \"groupRequired\",\"value\": [{\"mode\": \"OR\",\"groups\": [{\"mode\": \"AND\",\"value\": [\"androiddownload_url\",\"androiddetail_url\"]},{\"mode\": \"AND\",\"value\": [\"iosdownload_url\"]}],\"tips\": \"安卓下载链接和ios下载链接至少填写一个\"}]}]}}",
+        "element": "[{\"expressions\":[{\"alias\":\"应用名称\",\"inputType\":\"text\",\"key\":\"appname_h1\",\"secondaryVarType\":\"appname\",\"showKey\":false,\"tips\":\"长度1到32个字符\",\"validation\":{\"duration\":0,\"maxLen\":32,\"minLen\":1,\"required\":true,\"resolution\":{\"ratio\":\"\",\"whiteList\":[]}},\"value\":\"UC浏览器\",\"varType\":\"h1\"},{\"alias\":\"图片\",\"inputType\":\"image\",\"key\":\"pic_img\",\"showKey\":false,\"tips\":\"请上传120*120,大小不超过100kb图片,支持jpg和png\",\"validation\":{\"duration\":0,\"height\":120,\"maxSize\":100,\"required\":true,\"resolution\":{\"ratio\":\"\",\"whiteList\":[]},\"suffixes\":[\"jpg\",\"jpeg\",\"png\"],\"width\":120},\"value\":\"https://e.uc.cn/hcfs/web/fs/inner/mediaimg/5/adstyle/adstyle_5_a6c38fa3c59ba9070796fca351287d33.jpg\",\"varType\":\"image\"},{\"alias\":\"IOS下载地址\",\"inputType\":\"text\",\"key\":\"iosdownload_url\",\"secondaryVarType\":\"iosdownload\",\"showKey\":false,\"tips\":\"请填写app下载地址，http(s)开头\",\"validation\":{\"duration\":0,\"illegalChars\":\"\",\"maxLen\":1024,\"minLen\":0,\"required\":false,\"resolution\":{\"ratio\":\"\",\"whiteList\":[]},\"type\":\"url\"},\"value\":\"http://e.sm.cn\",\"varType\":\"url\"}],\"index\":1,\"referVarType\":\"ios_app\"}]",
+        "extraIdeaMetaDeleted": 0,
+        "extraIdeaMetaCreateTime": 1492433538000,
+        "extraIdeaMetaModifyTime": 1496666004000,
+        "extraIdeaMetaVersion": 3,
+        "extraIdeaMetaTemplateFilePath": "https://e.uc.cn/hcfs/web/fs/inner/huichuanTemplate/5/fanghuaTemplate/fanghua_5_2cf3c8d0799c2bd7a2ac1145dfd3d1c0.json",
+        "extraIdeaMetaAlias": "appname_h1"
+    },
+    "success": true
+}

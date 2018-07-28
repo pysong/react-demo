@@ -1,0 +1,15 @@
+{
+    "status": 0,
+    "data": [{
+        "appId": 36557,
+        "appName": "UC浏览器",
+        "appLogoUrl": "http://android-artworks.25pp.com/fs08/2017/10/31/1/110_b5d2ce8b10755939c25753874d2d35ac_con.png",
+        "packageName": "com.UCMobile"
+    }, {
+        "appId": 7460311,
+        "appName": "小小军团合战三国",
+        "appLogoUrl": "http://android-artworks.25pp.com/fs08/2016/11/09/6/110_28095fe63d2379cd7c5e9dfedca26a40_con.png",
+        "packageName": "com.hoolai.hzsg.ju360"
+    }],
+    "success": true
+}

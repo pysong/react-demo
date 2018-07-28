@@ -1,0 +1,16 @@
+{
+"status": 0,
+"data": {
+"appId": 36557,
+"appName": "UC浏览器",
+"appLogoUrl": "http://android-artworks.25pp.com/fs08/2017/11/20/11/110_5bf482cd0c29207d55c50d08e60d9b70_con.png",
+"apkId": 52783,
+"apkName": "uc-wolong-cpc",
+"apkDownloadUrl": "http://server.m.pp.cn/download/apk?appId=36557&ch_src=pm_hc&ch=default&md5=47d1e8bb08cd6124b9e972d0e020eb33&custom=0&uc_param_str=frvecpeimintnidnut",
+"apkDetailUrl": "http://m.pp.cn/detail.html?appid=36557&md5=47d1e8bb08cd6124b9e972d0e020eb33&ch_src=pm_hc&ch=default&cfg=%7B%22footer2%22%3A0%2C%22back%22%3A0%2C%22search%22%3A0%7D&uc_biz_str=S:custom|C:default|K:true&uc_fdl_toast=1",
+"status": 0,
+"auditStatus": 1,
+"packageVersion": "11.7.5.955"
+},
+"success": true
+}

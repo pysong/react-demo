@@ -1,0 +1,55 @@
+{
+  "status": 0,
+  "data": {
+    "queryCondition": {
+      "totalSize": 2,
+      "pageSize": 20,
+      "currentPage": 1
+    },
+    "list": [
+      {
+        "userId": 1061,
+        "userName": "携程旅行网",
+        "styleType": 0,
+        "showNum": 2021,
+        "clickNum": 544,
+        "acp": 0.41,
+        "directDownload": 321,
+        "indirectDownload": 232,
+        "timeStr": "2017-07-22",
+        "clickRatio": "26.92%",
+        "rank": "-",
+        "consume": 223,
+        "planId" : 100070031,
+        "planName" : "测试高级样式不要删",
+        "unitId" : 404830006,
+        "unitName": "测试高级样式一",
+        "keyword": "咪咕",
+        "content": "unkond",
+        "styleName": "样式一"
+      },
+      {
+        "userId": 1061,
+        "userName": "携程旅行网",
+        "styleType": 0,
+        "showNum": 1201,
+        "clickNum": 244,
+        "acp": 0.5,
+        "directDownload": 123,
+        "indirectDownload": 231,
+        "timeStr": "2017-07-23",
+        "clickRatio": "20.32%",
+        "rank": "-",
+        "consume": 123,
+        "planId" : 100070031,
+        "planName" : "<div>测试高级样式不要删</div>",
+        "unitId" : 404830006,
+        "unitName": "<p>测试高级样式一</p>",
+        "keyword": "<b>咪咕</b>",
+        "content": "unkond",
+        "styleName": "样式二"
+      }
+    ]
+  },
+  "success": true
+}

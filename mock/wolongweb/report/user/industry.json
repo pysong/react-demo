@@ -1,0 +1,26 @@
+{
+    "status": 0,
+    "data": {
+        "userid": "用户ID",
+        "day": 0,
+        "notValidWinfoPrecent": "15%",
+        "inadvisableWinfoNum": "655",
+        "consumeWinfoPrecent": "20%",
+        "showWinfoPrecent": "30%",
+        "avgRank": "3",
+        "topShowPrecent": "30%",
+        "lastHours": "18小时",
+        "endTime": "22：00",
+        "lossPlanNum": "3443",
+        "lossPlanShowNum": "4243",
+        "lossAccountShowNum": "4234",
+        "validWinfo45Precent": "40%",
+        "validWinfo12Precent": "30%",
+        "winfoWeight": "0.20",
+        "rankWeight": "0.40",
+        "lastTimeWeight": "0.70",
+        "lossShowWeight": "1",
+        "showQWeight": "0"
+    },
+    "success": true
+}

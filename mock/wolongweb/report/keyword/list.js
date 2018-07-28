@@ -1,0 +1,101 @@
+var data = {
+    "status": 0,
+    "data": {
+        "queryCondition": {
+            "totalSize": 91709,
+            "pageSize": 20,
+            "currentPage": 1,
+            "totalPage": 45855,
+            "firstResult": 0,
+            "isQueryAll": false
+        },
+        "list": [
+            {
+                "timeStr": "2017-06-06~2017-06-12",
+                "day": 0,
+                "hour": 0,
+                "userid": 0,
+                "userName": "携程旅行网",
+                "clickNum": 1,
+                "showNum": 2,
+                "consume": 0.45,
+                "rank": "1.00",
+                "clickRatio": "0.01%",
+                "acp": "0.45",
+                "planid": 100660797,
+                "unitid": 438704067,
+                "winfoid": 11280175102,
+                "preClickNum": 0,
+                "preConsume": 0,
+                "preShowNum": 0,
+                "preRank": "0",
+                "planName": "<div>航班_哪里到哪里国际机票_phrase</div>",
+                "unitName": "<b>莫斯科出发国际机票_phrase</b>",
+                "keyword": "<b>unknown</b>",
+                "preClickRatio": "0%",
+                "preAcp": "0",
+                "fluctuate": 0.45,
+                "fluctuateRatio": "∞"
+            },
+            {
+                "timeStr": "2017-06-06~2017-06-12",
+                "day": 0,
+                "hour": 0,
+                "userid": 0,
+                "userName": "携程旅行网",
+                "clickNum": 0,
+                "showNum": 2,
+                "consume": 0,
+                "rank": "1.00",
+                "clickRatio": "0%",
+                "acp": "0",
+                "planid": 100660797,
+                "unitid": 438704067,
+                "winfoid": 11280175089,
+                "preClickNum": 0,
+                "preConsume": 0,
+                "preShowNum": 0,
+                "preRank": "0",
+                "planName": "航班_哪里到哪里国际机票_phrase",
+                "unitName": "莫斯科出发国际机票_phrase",
+                "keyword": "unknown",
+                "preClickRatio": "0%",
+                "preAcp": "0",
+                "fluctuate": 0,
+                "fluctuateRatio": "∞"
+            }
+        ],
+        "summary": {
+            "timeStr": "2017-06-06~2017-06-12",
+            "day": 0,
+            "hour": 0,
+            "userid": 1061,
+            "userName": "",
+            "clickNum": 213959,
+            "showNum": 1945412,
+            "consume": 256192.37,
+            "rank": "100",
+            "clickRatio": "0.00%",
+            "acp": "1.20",
+            "planid": 0,
+            "unitid": 0,
+            "winfoid": 0,
+            "preClickNum": 0,
+            "preConsume": 0,
+            "preShowNum": 0,
+            "preRank": "0",
+            "planName": "",
+            "unitName": "",
+            "keyword": "",
+            "preClickRatio": "0%",
+            "preAcp": "10",
+            "fluctuate": 256192.37,
+            "fluctuateRatio": "∞"
+        }
+    },
+    "success": true
+}
+
+module.exports = function () {
+    return data
+}

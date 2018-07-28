@@ -1,0 +1,31 @@
+{
+    "status": 0,
+    "message": "",
+    "data": [{
+        "id": 254,
+        "userId": 15092483,
+        "imageId": 1000712,
+        "logoName": "UCeee",
+        "logoUrl": "http://image-ad.sm.cn/admaterial/logo/170320a0ed20a82677427a860b4f65e09e5dbd.jpg",
+        "audit": 0,
+        "rejectReason": ""
+    },{
+        "id": 255,
+        "userId": 15092483,
+        "imageId": 1000712,
+        "logoName": "UCLOGO",
+        "logoUrl": "https://image.uczzd.cn/?fun=image&url=https%3A%2F%2Fpages%2Ec%2Dctrip%2Ecom%2Fcommerce%2Frk%2F2017%2F06%2Fshm1%2Ejpg%3Fsourceid%3D1775%26allianceid%3D18887%26sid%3D452649%26utm%5Fsource%3Dsm%26utm%5Fmedium%3Dcpc%26utm%5Fcampaign%3Dcmm44%26sepopup%3D2",
+        "audit": 0,
+        "rejectReason": ""
+    },{
+        "id": 256,
+        "userId": 15092483,
+        "imageId": 1000712,
+        "logoName": "九游",
+        "logoUrl": "https://image.uczzd.cn/?fun=image&url=https%3A%2F%2Fpages%2Ec%2Dctrip%2Ecom%2Fcommerce%2Frk%2F2017%2F06%2Fshm3%2Ejpg%3Fsourceid%3D1775%26allianceid%3D18887%26sid%3D452649%26utm%5Fsource%3Dsm%26utm%5Fmedium%3Dcpc%26utm%5Fcampaign%3Dcmm44%26sepopup%3D2",
+        "audit": 0,
+        "rejectReason": ""
+    }],
+    "extend": null,
+    "succ": true
+}

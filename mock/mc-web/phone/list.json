@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "message": "",
+    "data": [
+        {
+            "id": 31,
+            "userId": 394,
+            "phone": "13888888888",
+            "audit": 1,
+            "rejectReason": ""
+        },
+        {
+            "id": 32,
+            "userId": 394,
+            "phone": "13888888889",
+            "audit": 0,
+            "rejectReason": ""
+        },
+        {
+            "id": 33,
+            "userId": 394,
+            "phone": "13888888889",
+            "audit": 0,
+            "rejectReason": "xxxx"
+        }
+    ],
+    "extend": null,
+    "succ": true
+}

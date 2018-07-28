@@ -1,0 +1,19 @@
+{
+    "status": 0,
+    "message": "",
+    "data": {
+        "showReport": true,
+        "list": [
+            {
+                "showReport": true,
+                "styleType": 2016,
+                "styleName": "客户直通车"
+            },
+            {
+                "showReport": false,
+                "styleType": 14,
+                "styleName": "黄金地带"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "budgetSuggested": "3;3;4;2;2;5;7;8",
+    "historyList": [],
+    "level": 1,
+    "lossShow": 100,
+    "nowBudget": 5,
+    "offLineCount": 10,
+    "offLineTime": "22:00",
+    "preDayBudget": 10,
+    "userId": 80170
+  },
+  "status": 0
+}

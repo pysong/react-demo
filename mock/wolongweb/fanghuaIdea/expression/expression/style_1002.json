@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "data": {
+        "extraIdeaMetaId": 1002,
+        "extraIdeaMetaName": "推广电话",
+        "extraStyleTemplateIds": [],
+        "extraIdeaMetaProductId": 0,
+        "extraIdeaMetaTemplate": "{\"attribute\": {\"productId\": \"0\",\"name\": \"推广电话\",\"alias\": \"tel_phone\"},\"references\":[{\"referVarType\":\"tel\",\"expressions\": [        {\"key\": \"tel_phone\",\"alias\": \"推广电话\",\"validation\": {\"required\": true,\"type\":\"phone\"},\"tips\":\"请输入正确的电话号码\",\"inputType\": \"text\",\"varType\": \"phone\",\"isShowKey\":true}]}]}",
+        "element": "[{\"expressions\":[{\"alias\":\"推广电话\",\"inputType\":\"text\",\"key\":\"tel_phone\",\"showKey\":false,\"tips\":\"请输入正确的电话号码\",\"validation\":{\"duration\":0,\"required\":true,\"resolution\":{\"ratio\":\"\",\"whiteList\":[]},\"type\":\"phone\"},\"value\":\"4008001688\",\"varType\":\"phone\"}],\"referVarType\":\"tel\"}]",
+        "extraIdeaMetaDeleted": 0,
+        "extraIdeaMetaCreateTime": 1492433701000,
+        "extraIdeaMetaModifyTime": 1496666194000,
+        "extraIdeaMetaVersion": 3,
+        "extraIdeaMetaTemplateFilePath": "https://e.uc.cn/hcfs/web/fs/inner/huichuanTemplate/5/fanghuaTemplate/fanghua_5_9f82adccf1fed7b60747c678e826134a.json",
+        "extraIdeaMetaAlias": "tel_phone"
+    },
+    "success": true
+}

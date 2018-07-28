@@ -1,0 +1,1 @@
+{"status":0,"data":{"styleType":1002,"template":"[{\"key\":\"modify_phone\",\"alias\":\"修改推广电话\",\"value\":[{\"key\":\"modify_phone_group\",\"type\":\"group\",\"value\":[{\"key\":\"tel_phone\",\"type\":\"field\",\"modifyType\":[\"override\"],\"needCheck\":false}]}]}]","canBatchCopy":false},"success":true}

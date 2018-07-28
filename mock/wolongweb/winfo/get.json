@@ -1,0 +1,33 @@
+{
+    "status": 0,
+    "data": {
+        "userId": 66755,
+        "showNum": 0,
+        "clickNum": 0,
+        "convertNum": 0,
+        "consume": 0.00,
+        "clickRatio": "0.00%",
+        "cpc": "0.00",
+        "convertRatio": 0.0,
+        "planId": 100110406,
+        "planName": "<i style=\"color:red\">i2</i>",
+        "isPaused": 1,
+        "reviewState": 0,
+        "frontState": 0,
+        "isPromotionAbnormal": false,
+        "unitId": 404857663,
+        "unitName": "<i style=\"color:red\">22</i>",
+        "planIsDelete": 0,
+        "unitIsDelete": 0,
+        "winfoId": 10104136811,
+        "showWord": "爷爷去世了",
+        "wmatch": 2,
+        "bid": 0.47,
+        "url": "",
+        "showq": 0,
+        "rank": "-",
+        "id": 10104136811,
+        "level": 4
+    },
+    "success": true
+}

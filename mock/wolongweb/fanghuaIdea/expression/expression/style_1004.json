@@ -1,0 +1,18 @@
+{
+"status": 0,
+"data": {
+"extraIdeaMetaId": 1004,
+"extraIdeaMetaName": "在线咨询",
+"extraStyleTemplateIds": [],
+"extraIdeaMetaProductId": 0,
+"extraIdeaMetaTemplate": "{\n    \"attribute\": {\n        \"productId\": \"0\",\n        \"name\": \"在线咨询\",\n\t\t\"alias\": \"1_consult_url\"\n    },\n    \"references\": [\n        \n        {\n            \"referVarType\": \"consult\",\n            \"index\": 1,\n            \"expressions\": [\n                 {\n                    \"key\": \"1_consult_url\",\n                    \"alias\": \"在线咨询链接\",\n                    \"validation\": {\n                        \"minLen\": 1,\n                        \"maxLen\": 1024,\n                        \"required\": true\n                    },\n                    \"tips\": \"长度1到1024个字符\",\n                    \"inputType\": \"text\",\n                    \"varType\": \"url\",\n\t\t\t\t\t \"secondaryVarType\": \"consult\",\n                    \"isShowKey\":true\n                },\n\t\t\t\t{\n                    \"key\": \"1_tips\",\n\t\t\t\t\t\"alias\": \"提示\",\n                    \"value\": \"添加样式后，卧龙将获取您在第三工具中的数据进行用户分析及样式优化，数据包括访客信息、企业信息、访客对话和留言信息等\",\n                    \"style\": \"\",\n                    \"inputType\": \"static_text\",\n                    \"varType\":\"rawText\"\n                }\n            ]\n        }\n    ]\n\n}",
+"element": "[{\"expressions\":[{\"alias\":\"在线咨询链接\",\"disabled\":false,\"inputType\":\"text\",\"key\":\"1_consult_url\",\"secondaryVarType\":\"consult\",\"showKey\":false,\"tips\":\"长度1到1024个字符\",\"validation\":{\"duration\":0,\"maxLen\":1024,\"minLen\":1,\"required\":true,\"resolution\":{\"ratio\":\"\",\"whiteList\":[]}},\"value\":\"http://e.sm.cn\",\"varType\":\"url\"},{\"alias\":\"提示\",\"disabled\":false,\"inputType\":\"static_text\",\"key\":\"1_tips\",\"showKey\":false,\"style\":\"\",\"value\":\"添加样式后，卧龙将获取您在第三工具中的数据进行用户分析及样式优化，数据包括访客信息、企业信息、访客对话和留言信息等\",\"varType\":\"rawText\"}],\"index\":1,\"referVarType\":\"consult\",\"size\":0}]",
+"extraIdeaMetaDeleted": 0,
+"extraIdeaMetaCreateTime": 1502885495000,
+"extraIdeaMetaModifyTime": 1502885495000,
+"extraIdeaMetaVersion": 0,
+"extraIdeaMetaTemplateFilePath": "https://e.uc.cn/hcfs/web/fs/inner/huichuanTemplate/5/fanghuaTemplate/fanghua_5_650f4c84dcf4b2d816bbffa6215953cb.json",
+"extraIdeaMetaAlias": "1_consult_url"
+},
+"success": true
+}

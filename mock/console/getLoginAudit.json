@@ -1,0 +1,88 @@
+{
+    "auditor": {
+        "userId": 15604646,
+        "userName": "cpcdev",
+        "groupName": "GROUP_ADMIN",
+        "roles": [
+            "ROLE_ADMIN_READONLY"
+        ],
+        "info": {
+            "userId": 15604646,
+            "userName": "cpcdev",
+            "nickName": "",
+            "industry1": 36000000,
+            "industry2": 36001000,
+            "industry3": 36001001,
+            "accountType": -1,
+            "reviewState": 13,
+            "financeState": 2,
+            "viewState": 0,
+            "groupName": "GROUP_ADMIN",
+            "roles": "[\"ROLE_ADMIN_READONLY\"]",
+            "source": 0,
+            "sourceName": "无",
+            "createTime": 1470887809000,
+            "modifyTime": 1475913148000,
+            "firstRechargeTime": null,
+            "firstAvailableTime": null,
+            "lastLoginTime": 1515673645000,
+            "deleted": 0
+        },
+        "contact": {
+            "companyName": "神马搜索",
+            "siteName": "神马搜索",
+            "siteUrl": "http://sm.cn",
+            "contactName": "王宇",
+            "contactPhone": "81546187",
+            "mobile": "13811325856",
+            "contactEmail": "bany.wy@alibaba-inc.com",
+            "qq": "",
+            "fax": "",
+            "province": "北京",
+            "city": "北京",
+            "address": "阿里中心A座",
+            "zipCode": "100001"
+        },
+        "industry": {
+            "industry1": 36000000,
+            "industry2": 36001000,
+            "industry3": 36001001,
+            "industry1Text": "无",
+            "industry2Text": "无",
+            "industry3Text": "无"
+        },
+        "frontWebUrl": {
+            "frontWebAdFinance": "",
+            "frontWebAdTools": "",
+            "frontWebIndex": "http://e.sm.cn/console/index?uid=15604646",
+            "frontWebAccount": "http://e.sm.cn/static/uc/index.html#/account/summary?uid=15604646"
+        },
+        "finance": null,
+        "auditInfo": {
+            "urlState": null,
+            "urlCode": null,
+            "infoState": null,
+            "infoCode": null,
+            "inputReason": null,
+            "infoStatus": null,
+            "auditor": null,
+            "auditTime": null,
+            "rejectReason": null,
+            "effectTime": "未生效",
+            "disableTime": "未失效"
+        },
+        "relation": {
+            "parentName": null,
+            "parentId": null,
+            "salesName": null,
+            "custMgrName": null
+        },
+        "cpc": null,
+        "secRolesName": [],
+        "secRolesId": []
+    },
+    "operatorAuth": {
+        "onlyQualRole": false,
+        "appSourceAuditor": false
+    }
+}

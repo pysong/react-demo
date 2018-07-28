@@ -1,0 +1,15 @@
+{
+"status": 0,
+"message": "success",
+"data": {
+"id": 1000,
+"categoryId": 2,
+"uid": 13240230,
+"styleType": 126,
+"sendType": 3,
+"emailInterval": 24,
+"sendEmail": "sfsda@qq.com",
+"sendUrl": "",
+"operatorId": 13234993
+}
+}

@@ -1,0 +1,15 @@
+{
+    "status": 0,
+    "data": [{
+        "id": 2,
+        "name": "快商通",
+        "domain": "https://kuaishang.cn",
+        "registerLink": "https://shop.kuaishang.cn/index.htm"
+    },{
+        "id": 22,
+        "name": "大快商通",
+        "domain": "https://kuaishang2.cn",
+        "registerLink": "https://shop.kuaishang2.cn/index.htm"
+    }],
+    "success": true
+}

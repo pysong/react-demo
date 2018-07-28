@@ -1,0 +1,49 @@
+{
+    "status": 0,
+    "data": {
+        "winfoNum": 1,
+        "totalLossPv": 31,
+        "totalLossClick": 0,
+        "list": [
+            {
+                "planId": 101570637,
+                "planName": "20170623-test-fff",
+                "unitId": 484529713,
+                "unitName": "test_unit_2",
+                "winfoId": 13405992107,
+                "word": "dota",
+                "bid": 10.71,
+                "suggestBid": 1.97,
+                "pv": 10,
+                "lossPv": 31,
+                "expectPv": 31,
+                "click": 0,
+                "lossClick": 10,
+                "expectClick": 0,
+                "recommendRank": 5,
+                "wmatch": 2,
+                "match": "广泛匹配"
+            },
+            {
+                "planId": 101570637,
+                "planName": "20170623-test-fff",
+                "unitId": 484529713,
+                "unitName": "test_unit_2",
+                "winfoId": 13405992107,
+                "word": "dota",
+                "bid": 1.71,
+                "suggestBid": 15.97,
+                "pv": 110,
+                "lossPv": 31,
+                "expectPv": 31,
+                "click": 0,
+                "lossClick": 0,
+                "expectClick": 0,
+                "recommendRank": 5,
+                "wmatch": 2,
+                "match": "广泛匹配"
+            }
+        ]
+    },
+    "success": true
+}

@@ -1,0 +1,104 @@
+
+{
+    "status": 0,
+    "message":"ok",
+    "data":{
+        "queryCondition": {
+            "totalSize":40,
+            "pageSize":30,
+            "currentPage":1
+        },
+        "target": [
+            {
+                "id":10, 
+                "name":"品专视频1", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":11, 
+                "name":"品专视频2", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":12, 
+                "name":"品专视频3", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":10, 
+                "name":"品专视频1", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":11, 
+                "name":"品专视频2", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":12, 
+                "name":"品专视频3", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":10, 
+                "name":"品专视频1", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":11, 
+                "name":"品专视频2", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            },
+            {
+                "id":12, 
+                "name":"品专视频3", 
+                "url":"https://ad-test4.sm.cn/video-center/web/mfs/inner/14932876/mcvideos/1712088131f1151f8d4af986da8b9fa4fbdb59.mp4",
+                "ratio":"16:9",
+                "duration":60,
+                "size": 4000,
+                "reviewState":1,
+                "productId":3
+            }
+        ]
+     }
+  }

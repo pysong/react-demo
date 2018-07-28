@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.*
+!.eslintrc
+!.gitignore
+node_modules/
+cpc_static
+cpc_static.tar.gz
+dist/
+npm-debug.log

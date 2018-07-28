@@ -1,0 +1,61 @@
+{
+    "status":0,
+    "data":{
+        "queryCondition":{
+            "totalSize":255,
+            "pageSize":20,
+            "currentPage":1,
+            "totalPage":13,
+            "firstResult":0,
+            "isQueryAll":false
+        },
+        "compare": true,
+        "list": [
+            {
+                "timeStr": "20170817-20170823",
+                "clickNum": "4",
+                "showNum": "15",
+                "consume": "2.65",
+                "rank": "1.87",
+                "clickRatio": "26.67%",
+                "acp": "0.66",
+ 
+                "preClickNum": "1",
+                "preConsume": "0.64",
+                "preShowNum": "25",
+                "preRank": "1.92",
+                "preClickRatio": "4.00%",
+                "preAcp": "0.64",
+ 
+                "clickNumDelta": "4",
+                "showNumDelta": "15",
+                "consumeDelta": "2.65",
+                "rankDelta": "1.87",
+                "clickRatioDelta": "26.67%",
+                "acpDelta": "0.66",
+ 
+                "clickNumRate": "4",
+                "showNumRate": "15",
+                "consumeRate": "2.65",
+                "rankRate": "1.87",
+                "clickRatioRate": "26.67%",
+                "acpRate": "0.66",
+ 
+ 
+                "userid": 1061,
+                "planid": 22546,
+                "unitid": 1906266,
+                "winfoid": 43113001,
+                "userName": "携程旅行网",
+                "planName": "机票_地域机票(新)_phrase",
+                "unitName": "?阿克苏机票_phrase",
+                "keyword": "阿克苏航班",
+                "fluctuate": 2.01,
+                "fluctuateRatio": "314.06%",
+                "preTimeStr": "20170817-20170823"
+            }
+        ]
+    },
+    "message": "xxxx",
+    "success":true
+}

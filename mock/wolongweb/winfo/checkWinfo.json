@@ -1,0 +1,15 @@
+{
+    "result": 0,
+    "status": 0,
+    "wolongError": null,
+    "data": [
+        {
+            "word": "法轮功",
+            "blackWordList": ["法轮"]
+        },
+        {
+            "word": "中国共产党国家黑词大团结特批",
+            "blackWordList": ["特批", "国家"]
+        }
+    ]
+}

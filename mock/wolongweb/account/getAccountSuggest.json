@@ -1,0 +1,19 @@
+{"status":0,"data":{
+    "accountBudgetSummary": {
+        "offLineTime": "08:10",
+        "lossShow": 1000
+    },
+    "planBudgetSummary": {
+        "totalCount": 1000,
+        "totalLossShow": 10000
+    },
+    "accountBalance": {},
+    "winfoSummary": {
+        "winfoNum": 100
+    },
+    "industryMinPrice": {
+        "winfoNum": 100,
+        "lossTxt": "xxxx"
+    },
+    "accountBalance": {}
+},"success":true}

@@ -1,0 +1,55 @@
+{
+    "status": 0,
+    "message": "",
+    "data": {
+        "pageNo": 1,
+        "pageSize": 10,
+        "totalCount": 1111,
+        "totalPageCount": 12,
+        "list": [
+            {
+                "contractId": 1,
+                "contractName": "张三",
+                "planId":111,
+                "date": "2019999",
+                "userName": "张三",
+                "planName":"<b>张三</b>",
+                "unitId":111,
+                "unitName":"<b>张三33</b>",
+                "ideaId":1,
+                "ideaName":"张三",
+                "winfoid":11,
+                "word":"<b>张三</b>",
+                "content": ["<b>张三</b>: 1231231231","aaa:12312312"]
+            },{
+                "contractId": 1,
+                "contractName": "张三",
+                "planId":111,
+                "date": "2019999",
+                "userName": "张三",
+                "planName":"张三",
+                "unitId":111,
+                "unitName":"张三",
+                "ideaId":1,
+                "ideaName":"张三",
+                "winfoid":11,
+                "word":"张三",
+                "content": ["dianhua: 1231231231","aaa:12312312"]
+            },{
+                "contractId": 1,
+                "contractName": "张三",
+                "planId":111,
+                "date": "2019999",
+                "userName": "张三",
+                "planName":"张三",
+                "unitId":111,
+                "unitName":"张三",
+                "ideaId":1,
+                "ideaName":"张三",
+                "winfoid":11,
+                "word":"张三",
+                "content": ["dianhua: 1231231231","aaa:12312312"]
+            }
+        ]
+    }
+}

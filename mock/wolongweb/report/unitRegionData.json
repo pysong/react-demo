@@ -1,0 +1,47 @@
+{
+    "status": 0,
+    "data": {
+        "queryCondition": {
+            "ascend": false,
+            "totalSize": 1,
+            "pageSize": 20,
+            "currentPage": 1,
+            "totalPage": 1,
+            "firstResult": 0,
+            "isQueryAll": false
+        },
+        "target": [
+            {
+                "date": "2017-05-16",
+                "levelName": "平台测试",
+                "regionId": 16842752,
+                "region": "北京",
+                "cityRegion": "北京",
+                "show": 11,
+                "click": 4,
+                "charge": 6.38,
+                "ctr": "36.36%",
+                "acp": "1.60",
+                "userName": "平台测试",
+                "planId": 101191776,
+                "planName": "<div>医疗高级样式(勿删勿改)</div>"
+            },
+            {
+                "date": "2017-05-17",
+                "levelName": "平台测试-2",
+                "regionId": 16842752,
+                "region": "上海",
+                "cityRegion": "上海",
+                "show": 11,
+                "click": 4,
+                "charge": 6.38,
+                "ctr": "36.36%",
+                "acp": "1.60",
+                "userName": "平台测试",
+                "planId": 101191776,
+                "planName": "医疗高级样式(勿删勿改)"
+            }
+        ]
+    },
+    "success": true
+}
